@@ -3,4 +3,4 @@ Welcome to the "Git for Beginners" MyProject
 Author: Joshua
 
 Twitter: @jopa
-Website: www.joshopa.com
+Website: https://www.joshopa.com
